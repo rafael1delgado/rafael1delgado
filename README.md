@@ -21,3 +21,5 @@
 
 ### **Contact**
 - 📫 delgadorafael2011@gmail.com / [LinkedIn](https://www.linkedin.com/in/rafael-delgado-dorante/)
+
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael1delgado&theme=tokyonight)](https://github.com/rafael1delgado)
