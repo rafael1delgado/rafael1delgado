@@ -1,16 +1,23 @@
-### Hi there 👋
+## **Hi, I'm Rafael** 👋
 
-<!--
-**rafael1delgado/rafael1delgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **About me**
 
-Here are some ideas to get you started:
+- 🔭 I'm working as a freelance profesional using Laravel &
+Livewire.
+- 📍 Location: Valencia, Venezuela.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Skills**
+
+- 👷‍♂️ Back-end: Laravel & Nodejs.
+- 🚪 Front-end: Angular & Vue.
+- ✨ CSS Framework: Bootstrap & Quasar.
+- 💿 Database: MySQL & PostgreSQL.
+- 🤓 I’m currently learning Python & React.
+
+### **Soft Skills**
+- 🎯 Ability to lead IT project.
+- 🧠 I like to share my knowledge.
+- 💪 Organized.
+
+### **Contact**
+- 📫 delgadorafael2011@gmail.com / [LinkedIn](https://www.linkedin.com/in/rafael-delgado-dorante/)
