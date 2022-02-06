@@ -1,18 +1,18 @@
-## **Hi, I'm Rafael** 👋
+## **Hi, I'm Rafael** 💻
 
 ### **About me**
 
-- 🔭 I'm working as a freelance profesional using Laravel &
-Livewire.
+- 🔭 I'm working as a freelance professional using Laravel & Livewire.
 - 📍 Location: Valencia, Venezuela.
 
 ### **Skills**
 
 - 👷‍♂️ Back-end: Laravel & Nodejs.
-- 🚪 Front-end: Angular & Vue.
+- 🚪 Front-end: Angular & Vuejs.
 - ✨ CSS Framework: Bootstrap & Quasar.
 - 💿 Database: MySQL & PostgreSQL.
 - 🤓 I’m currently learning Python & React.
+- 😊 Preferred programming languages are PHP and Javascript. 
 
 ### **Soft Skills**
 - 🎯 Ability to lead IT project.
