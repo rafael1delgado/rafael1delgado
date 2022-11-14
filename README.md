@@ -10,7 +10,7 @@
 - 👷‍♂️ Back-end: Laravel & Nodejs.
 - 🚪 Front-end: Angular & Vuejs.
 - ✨ CSS Framework: Bootstrap & Quasar.
-- 💿 Database: MySQL & PostgreSQL.
+- 💿 Database: MySQL, PostgreSQL & MongoDB.
 - 🤓 I’m currently learning Python & React.
 - 😊 Preferred programming languages are PHP and Javascript. 
 
