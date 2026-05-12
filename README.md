@@ -8,11 +8,11 @@
 ### **Skills**
 
 - 👷‍♂️ Back-end: Laravel & Nodejs.
-- 🚪 Front-end: Vuejs & Angular.
+- 🍄 Back-end Framework: Nestjs
+- 🚪 Front-end: Vuejs.
 - ✨ CSS Framework: Bootstrap & Quasar.
 - 💿 Database: MySQL, PostgreSQL & MongoDB.
-- 🤓 I’m currently learning Python & React.
-- 😊 Preferred programming languages are PHP and Javascript. 
+- 😊 Preferred programming languages are PHP and Javascript.
 
 ### **Soft Skills**
 - 🎯 Ability to lead IT project.
@@ -22,4 +22,3 @@
 ### **Contact**
 - 📫 delgadorafael2011@gmail.com / [LinkedIn](https://www.linkedin.com/in/rafael-delgado-dorante/)
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael1delgado&theme=tokyonight)](https://github.com/rafael1delgado)
